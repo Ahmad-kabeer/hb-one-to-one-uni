@@ -23,9 +23,9 @@ public class CreateDemo {
 
 		try {
 			
-			Instructor theinstructor = new Instructor("hina", "saifi", "hina@gmail.com");
+			Instructor theinstructor = new Instructor("babu", "saifi", "babu@gmail.com");
 			
-			InstructorDetails theinstructorDetails= new InstructorDetails("www.hina.com", "nurse teaching");
+			InstructorDetails theinstructorDetails= new InstructorDetails("www.babu.com", "father");
 			
 			theinstructor.setInstructorDetails(theinstructorDetails);
 						

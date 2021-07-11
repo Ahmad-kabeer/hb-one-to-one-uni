@@ -25,9 +25,9 @@ public class OneToOneUni {
 
 		try {
 			
-			Instructor theinstructor = new Instructor("naseema", "khatoon", "naseema@gmail.com");
+			Instructor theinstructor = new Instructor("mehboob", "mehboob", "mehboob@gmail.com");
 			
-			InstructorDetails theinstructorDetails= new InstructorDetails("www.naseema.com", "house wife");
+			InstructorDetails theinstructorDetails= new InstructorDetails("www.mehboob.com", "mehboob");
 			
 			theinstructor.setInstructorDetails(theinstructorDetails);
 						
